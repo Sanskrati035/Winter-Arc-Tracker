@@ -35,7 +35,7 @@ Frostline is a calm, good-looking tracker for a **90-day winter challenge**. Set
 
 ## Install on Android
 
-### Option 1: APK (full app with a home-screen widget)
+### Download the APK (includes a home-screen widget)
 1. Open the **Actions** tab of this repository.
 2. Click the latest green run, then download **Frostline-apk** from *Artifacts*.
 3. Unzip it to get `app-debug.apk`, and send it to your phone.
@@ -43,10 +43,6 @@ Frostline is a calm, good-looking tracker for a **90-day winter challenge**. Set
 5. Long-press your home screen, choose **Widgets**, and drag **Frostline** onto it.
 
 > The first install may show a Play Protect warning because the app is not from the Play Store. Choose **Install anyway**.
-
-### Option 2: Web app (PWA)
-Open the hosted link in Chrome, tap the three-dot menu, then **Install app**.
-On iPhone: open it in Safari, tap **Share**, then **Add to Home Screen**.
 
 ## Project structure
 
